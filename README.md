@@ -42,5 +42,4 @@ Note: The final submission does not use `max_leaf_nodes` due to decreased perfor
 
 ## References
 
-- Kaggle Tutorial given in Discussion
-- ChatGPT for plotting assistance
+- Kaggle Tutorial given in Discussion section.
